@@ -17,10 +17,11 @@
     margin-right: auto;
 }
 
-.goulash {
+.recipe {
     color: rgb(250, 250, 250);
     text-align: center;
-    font-size: 38px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
+
