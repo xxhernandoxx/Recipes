@@ -1,5 +1,7 @@
 /* styles.css */
 
+/* Below is the styles for index.html */
+
 .head {
     color: white;
     background-color: black;
@@ -35,3 +37,6 @@ a {
 button {
     background-color: rgb(100, 50, 50);
 }
+
+/* Below is the styles for goulash.html */
+
