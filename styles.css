@@ -11,7 +11,7 @@
     font-weight: bold;
 }
 
-#family {
+#family, #goulash, #meatloaf, #cookie {
     height: auto;
     width: 800px;
     display: block;
@@ -40,3 +40,13 @@ button {
 
 /* Below is the styles for goulash.html */
 
+.button {
+    color: rgb(250, 250, 250);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
