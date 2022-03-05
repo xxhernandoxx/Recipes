@@ -9,6 +9,9 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     font-weight: bold;
+    margin: 10px 100px;
+    padding: 16px;
+    border: 10px solid red;
 }
 
 #family, #goulash, #meatloaf, #cookie {
@@ -49,4 +52,5 @@ button {
 * {
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
